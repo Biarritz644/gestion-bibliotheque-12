@@ -1,0 +1,20 @@
+# Fichiers compilés
+*.class
+
+# Dossier de build Maven
+/target/
+
+# Dossier de build Gradle
+/build/
+
+# Fichiers IDE
+.idea/
+*.iml
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
